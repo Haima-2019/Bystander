@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="50dp"
+    android:visibility="visible">
+
+    <ImageButton
+        android:layout_width="61dp"
+        android:layout_height="34dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:src="@drawable/home"
+        android:text="@string/a_home" />
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:src="@drawable/bystander"
+        android:text="@string/a_welcome_service" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:src="@mipmap/customer1"
+        android:textAlignment="@string/a_welcome_customer" />
+
+
+</LinearLayout>

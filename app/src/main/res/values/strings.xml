@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a_user_name">Username</string>
+    <string name="a_login_password">password</string>
+    <string name="a_login_sign_in">SignIn</string>
+    <string name="a_login_link1">Not yet registered?</string>
+    <string name="a_login_link2">SignUp</string>
+    <string name="a_reg_name">Name</string>
+    <string name="a_reg_email">E-mail</string>
+    <string name="a_reg_address">Address</string>
+    <string name="a_reg_district">District</string>
+    <string name="a_reg_gender">Gender</string>
+    <string name="a_reg_age">Age</string>
+    <string name="a_reg_submit">Submit</string>
+    <string name="a_service_req">Request</string>
+    <string name="a_service_days">Number of days</string>
+    <string name="a_Service_price">Price</string>
+    <string name="a_btn_Send">Send</string>
+    <string name="a_home">Home </string>
+
+
+</resources>
